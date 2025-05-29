@@ -1,0 +1,27 @@
+Q1. escreva um algoritimo que leia dois numeros inteiros 'a' e 'b', calcele a soma deles e mostre o resulta.
+
+1.leia os numeros 'a' e 'b';
+2.caucule a soma de 'a' mais 'b';
+3.mostre o resultado.
+
+Q2 - Escreva um algoritmo que leia dois números inteiros [a]e [b], cacule a [subritação] deles e mostre o resultado.
+
+1.leia o nemeros [a];
+2.leia o nemero [b];
+3.caucule a [subritação] de [a]  [b];
+4.e encontre o resultado da [subritaçao]
+
+Q3 - Escreva um algoritmo que leia dois números inteiros [a] e [b], cacule a [divisão] deles e mostre o resultado.
+
+1.leia o numero [a];
+2.leia o numero [b];
+3.calcule a [divisao] de [a] e [b];
+4.e encontre o resultado da [divisao]
+
+Q4 - Escreva um algoritmo que leia dois números inteiros [a] e [b], cacule a [multiplicasao] deles e mostre o resultado.
+
+1.leia o numero [a];
+2.leia o numero [b];
+3.calcule a [multiplicasao] de [a] e [b];
+4.e encontre o resultado da [multiplicasao]
+
